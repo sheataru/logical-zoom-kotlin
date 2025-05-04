@@ -4,7 +4,7 @@ This is a simple Minecraft Fabic mod that adds a configurable zoom key.
 
 There are other mods that have this same feature but this is my first mod and I'm using this as an excuse to learn Minecraft modding.
 
-By default the C key is mapped for zooming (as with Optifine) but you can change this in the Controls settings of Minecraft.
+By default the C key is mapped for zooming (as with Optifine) but you can change this in the Controls settings of Minecraft. (NOTE: This might have to be remapped due to a different key being mapped to C, so change that before use.)
 
 ## Installation
 
